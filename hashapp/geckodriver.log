@@ -1,0 +1,4 @@
+1609429597322	geckodriver	INFO	Listening on 127.0.0.1:55633
+1609429600363	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BRECKE~1\\AppData\\Local\\Temp\\rust_mozprofileyZK264"
+1609429620611	geckodriver	INFO	Listening on 127.0.0.1:55660
+1609429623630	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BRECKE~1\\AppData\\Local\\Temp\\rust_mozprofileOzoPBV"
